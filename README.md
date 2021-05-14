@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 
 ![Swift Badge](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-[![Velog Badge](http://img.shields.io/badge/-Velog-20c997?style=flat&link=https://velog.io/@sangjin98)](https://velog.io/@sangjin98)
+[![Velog Badge](https://img.shields.io/badge/-Velog-20c997?style=flat&link=https://velog.io/@sangjin98)](https://velog.io/@sangjin98) [![Email Badge](https://img.shields.io/badge/-Email-green?style=flat&link=mailto:335270@naver.com)](mailto:335270@naver.com)
