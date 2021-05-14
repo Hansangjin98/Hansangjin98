@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 ![Hansangjin98's github stats](https://github-readme-stats.vercel.app/api?username=Hansangjin98&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hansangjin98&layout=compact)
 
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://velog.io/@sangjin98/)](https://velog.io/@sangjin98/)
+[![Velog Badge](http://img.shields.io/badge/-Velog-20c997?style=flat&link=https://velog.io/@sangjin98)](https://velog.io/@sangjin)
