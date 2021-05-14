@@ -15,7 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Hansangjin98's github stats](https://github-readme-stats.vercel.app/api?username=Hansangjin98&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hansangjin98&layout=compact)
+[![Hansangjin98's github stats](https://github-readme-stats.vercel.app/api?username=Hansangjin98&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Hansangjin98's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hansangjin98&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+
+![Swift Badge](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 [![Velog Badge](http://img.shields.io/badge/-Velog-20c997?style=flat&link=https://velog.io/@sangjin98)](https://velog.io/@sangjin98)
