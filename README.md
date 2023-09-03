@@ -1,24 +1,13 @@
 ### Hi👋
 
-<!--
-**Hansangjin98/Hansangjin98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-[![Hansangjin98's github stats](https://github-readme-stats.vercel.app/api?username=Hansangjin98&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Hansangjin98's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hansangjin98&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
-![Swift Badge](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<a href="https://apps.apple.com/kr/app/phochak/id6447902176">
+  <img src="https://img.shields.io/badge/App%20Store-찰나의 순간을 영원히, PhoChak-b8b8b8?style=for-the-badge&logo=App%20Store&logoColor=0D96F6"/>
+</a>
+<br>
+<a href="https://apps.apple.com/kr/app/tidify/id6449292500">
+  <img src="https://img.shields.io/badge/App%20Store-쉽고 깔끔한 북마크, Tidify-6B8FF9?style=for-the-badge&logo=App%20Store&logoColor=0D96F6"/>
+</a>
 
-[![Velog Badge](https://img.shields.io/badge/-Velog-20c997?style=flat&link=https://velog.io/@sangjin98)](https://velog.io/@sangjin98) [![Email Badge](https://img.shields.io/badge/-Email-green?style=flat&link=mailto:335270@naver.com)](mailto:335270@naver.com)
+[![Email Badge](https://img.shields.io/badge/-Email-green?style=flat&link=mailto:dev.sangjin@gmail.com)](mailto:dev.sangjin@gmail.com)
